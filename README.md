@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @setofrompluto
 - 👀 I’m interested in some random thing
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C++ and hopefully mastering it
+- 💞️ I’m looking to collaborate on and on. we'll goooooo
 - 📫 How to reach me? Call me or /summon
 - 😄 Pronouns: Underpass
 - ⚡ Fun fact: I'm a male
